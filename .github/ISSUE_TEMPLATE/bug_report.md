@@ -1,7 +1,13 @@
 ---
-name: 🐞 Bug report
-about: Found a bug in the iOS SDK? Is the Firebase SDK crashing your app? File it here.
+name: "\U0001F41E Bug report"
+about: Found a bug in the iOS SDK? Is the Firebase SDK crashing your app? File it
+  here.
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 <!-- DO NOT DELETE
 validate_template=true
 template_path=.github/ISSUE_TEMPLATE/bug_report.md

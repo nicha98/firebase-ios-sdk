@@ -1,8 +1,12 @@
 ---
-name: ➕ Feature request
+name: "➕ Feature request"
 about: If you have a feature request for the Firebase iOS SDK, file it here.
-labels: 'type: feature request'
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 <!-- DO NOT DELETE
 validate_template=true
 template_path=.github/ISSUE_TEMPLATE/feature_request.md
